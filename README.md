@@ -4,6 +4,7 @@
 - Project made for learning purpose
 - Project still in development (February 2021)
 - Errors may occur, open a issue for erros or make a pull request with a fixed version
+- Account come out as phone locked??? (finding cause and trying to fix)
 - Code is very messy, didnt wanted to clean it out poggers
 
 ## USAGE ##
